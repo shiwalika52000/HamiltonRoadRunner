@@ -1,8 +1,7 @@
 # HamiltonRoadRunner 
 
 Welcome to the official repository showcasing the Hamilton Road Runner website, a modern, responsive platform built using WordPress.
-
-"This website is a hub for the Hamilton Road Runners community, offering easy navigation, a clean design, and valuable resources to connect, support, and inspire road runners of all levels."
+This website is a hub for the Hamilton Road Runners community, offering easy navigation, a clean design, and valuable resources to connect, support, and inspire road runners of all levels.
 
 ## Website Link
 Visit the live website: [HNRR - https://hnrr.forgetit.co.nz/](https://hnrr.forgetit.co.nz/)
